@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LemonCalculate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Placement_Calculate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CompletedState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EditCourse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CourseListEdit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FormulaEdit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EntryDisp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EnterSec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CoursesPlacement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentsPlacement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentsOffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentsEdit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentsFinalCourse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentsListEdit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentsEnter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="System.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TerminalEnter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Terminals.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Course.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IdObjectFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IStorage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Student.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IdObj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NonRefField.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Terminal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FileStorage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="seasonConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RefListField.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Lexer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyExceptions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Parser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CourseBid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UserInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CSList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PreCourses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LemonCalculate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CmdMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Placement_Calculate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CompletedState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EditCourse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CourseListEdit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FormulaEdit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EntryDisp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EnterSec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CoursesPlacement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StudentsPlacement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StudentsOffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StudentsEdit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StudentsFinalCourse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StudentsListEdit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StudentsEnter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="System.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TerminalEnter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Terminals.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CourseBid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PreCourses.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
